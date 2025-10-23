@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Apple shares rise as iPhone sales beat estimates",
+    "text": "AAPL rallied after the company posted stronger-than-expected iPhone revenue.",
+    "source": "Sample",
+    "published_at": "2024-05-01",
+    "tickers": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Tesla falls on margin concerns",
+    "text": "$TSLA dropped as investors weighed shrinking automotive gross margins.",
+    "source": "Sample",
+    "published_at": "2024-05-02",
+    "tickers": [
+      "TSLA"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Banks mixed amid rate uncertainty",
+    "text": "Financials were mixed as the market assessed the path of Fed policy.",
+    "source": "Sample",
+    "published_at": "2024-05-03",
+    "tickers": []
+  }
+]

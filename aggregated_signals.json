@@ -1,0 +1,20 @@
+[
+  {
+    "ticker": "AAPL",
+    "mean_sentiment": 0.936553418636322,
+    "count": 1,
+    "signal": "Bullish"
+  },
+  {
+    "ticker": "MARKET",
+    "mean_sentiment": -0.9284912943840027,
+    "count": 1,
+    "signal": "Bearish"
+  },
+  {
+    "ticker": "TSLA",
+    "mean_sentiment": -0.9723253846168518,
+    "count": 1,
+    "signal": "Bearish"
+  }
+]
