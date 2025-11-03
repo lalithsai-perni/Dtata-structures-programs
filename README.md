@@ -17,6 +17,11 @@ Every program is implemented using **Abstract Data Type (ADT)** principles for b
 ### 🔹 Singly Linked List (ADT-based)
 **File:** `singly_linked_list.c`
 
+**🧠 Concept Overview:**  
+A **Singly Linked List** is a linear data structure where each node contains data and a pointer to the next node.  
+It allows efficient insertion and deletion without requiring contiguous memory like arrays.  
+Linked lists are especially useful when frequent insertion and deletion operations are needed.
+
 **Features:**
 - Create a linked list dynamically  
 - Insert a node:
@@ -33,6 +38,22 @@ Every program is implemented using **Abstract Data Type (ADT)** principles for b
 
 ---
 
+### 🔹 Breadth-First Search (Graph Traversal)
+**File:** `bfs_graph.c`
+
+**🧠 Concept Overview:**  
+**Breadth-First Search (BFS)** is a graph traversal algorithm that explores all neighboring vertices at the current depth before moving on to the next level.  
+It uses a **queue** to ensure nodes are processed in the order they are discovered, making it ideal for finding the **shortest path** in an unweighted graph.
+
+**Features:**
+- Create and represent graphs using an **adjacency matrix**  
+- Supports both **directed** and **undirected** graphs  
+- Accepts custom input for **vertices** and **edges**  
+- Displays the **Adjacency Matrix** clearly  
+- Performs **Breadth-First Search (BFS)** traversal  
+- Implements **queue-based level-order exploration**  
+- Includes **error handling** for invalid vertices or inputs 
+
 ## 🚀 Upcoming Implementations
 
 Planned additions to this repository include:
@@ -41,7 +62,7 @@ Planned additions to this repository include:
 - Stack (Array & Linked List implementation)  
 - Queue (Array & Linked List implementation)  
 - Trees (Binary Tree, BST)  
-- Graphs (Adjacency List & Matrix)  
+- Graphs (Adjacency List)  
 - Sorting & Searching Algorithms  
 
 ---
