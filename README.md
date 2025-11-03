@@ -15,7 +15,7 @@ Every program is implemented using **Abstract Data Type (ADT)** principles for b
 ## 🧩 Currently Implemented
 
 ### 🔹 Singly Linked List (ADT-based)
-**File:** `singly_linked_list.c`
+**File:** `singlelinkedlist.c`
 
 **🧠 Concept Overview:**  
 A **Singly Linked List** is a linear data structure where each node contains data and a pointer to the next node.  
@@ -39,7 +39,7 @@ Linked lists are especially useful when frequent insertion and deletion operatio
 ---
 
 ### 🔹 Breadth-First Search (Graph Traversal)
-**File:** `bfs_graph.c`
+**File:** `BFS(2DARRAYS).c`
 
 **🧠 Concept Overview:**  
 **Breadth-First Search (BFS)** is a graph traversal algorithm that explores all neighboring vertices at the current depth before moving on to the next level.  
