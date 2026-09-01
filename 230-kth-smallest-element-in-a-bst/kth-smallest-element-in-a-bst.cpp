@@ -22,7 +22,7 @@ public:
         inorder(root->right,k,cnt,ans);
     }
     int kthSmallest(TreeNode* root, int k) {
-        int ans = -1,cnt=0;
+        int ans = 0,cnt=0;
         inorder(root,k,cnt,ans);
         return ans;
         
